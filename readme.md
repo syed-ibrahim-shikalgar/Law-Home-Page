@@ -29,3 +29,5 @@
 - How to use CSS position absolute to position footer at the bottom of a page
 
 - How to create `buttons`
+
+## [Live-link](https://home-page-of-law.netlify.app/) of the project
